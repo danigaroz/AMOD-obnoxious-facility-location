@@ -2,7 +2,6 @@
 
 [![Language](https://img.shields.io/badge/language-Python-blue)]()
 [![Course](https://img.shields.io/badge/course-Discrete%20Optimization-red)]()
-[![Grade](https://img.shields.io/badge/grade-30%2F30-brightgreen)]()
 
 When does the greedy beat the solver? An empirical study of the **Minimum-Impact Location Problem** (Church & Cohon, 1976), implemented in Python with PuLP and CBC, benchmarked across 60 randomly generated instances covering three orders of magnitude in problem size.
 
