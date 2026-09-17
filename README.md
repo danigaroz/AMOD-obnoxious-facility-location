@@ -4,7 +4,7 @@ An empirical study of the **Minimum-Impact Location Problem** (Church & Cohon, 1
 implemented in Python with PuLP and CBC, evaluated on 60 randomly generated instances
 covering three orders of magnitude in problem size.
 
-## TL;DR
+## Summary
 
 - **Problem:** where to place *p* undesirable facilities among *m* candidate sites so that
   the population within their impact radius `S` is minimised.
@@ -37,7 +37,6 @@ covering three orders of magnitude in problem size.
 | `AMOD_project_MILP.ipynb` | Reproducible Colab notebook — all code and results |
 | `AMOD_report.pdf` | Written report (12 pages) |
 | `AMOD_slides.pdf` | Presentation slides |
-| `main.tex`, `refs.bib`, `slides.tex` | LaTeX sources |
 | `results_*.csv` | Raw experimental data |
 | `fig_*.png` | Figures used in the report and slides |
 
