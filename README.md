@@ -1,4 +1,5 @@
 # Obnoxious Facility Location — A Computational Study
+[![Grade](https://img.shields.io/badge/grade-30%2F30-brightgreen)](.)
 
 An empirical study of the **Minimum-Impact Location Problem** (Church & Cohon, 1976),
 implemented in Python with PuLP and CBC, evaluated on 60 randomly generated instances
